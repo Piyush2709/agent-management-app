@@ -155,10 +155,5 @@ If you're using MongoDB Atlas or a remote MongoDB instance, update the URI accor
 
 ---
 
-## License
-This project is licensed under the MIT License.
-
----
-
 ## Author
 - **Piyush Adake* - [Your GitHub Profile](https://github.com/Piyush2709)
