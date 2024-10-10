@@ -161,4 +161,4 @@ This project is licensed under the MIT License.
 ---
 
 ## Author
-- **Piyush Adake* - [Your GitHub Profile](https://github.com/piyushadake2709)
+- **Piyush Adake* - [Your GitHub Profile](https://github.com/Piyush2709)
