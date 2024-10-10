@@ -47,7 +47,7 @@ Before running the project, ensure that you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/piyushadake2709/agent-management-app.git
+git clone https://github.com/Piyush2709/agent-management-app.git
 cd agent-management-app
 ```
 
